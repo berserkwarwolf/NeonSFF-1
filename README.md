@@ -1,6 +1,8 @@
 # NeonSFF
 A 3D Printed Small Form Factor PC Case. Designed in Solidworks.
 
+![case01](/img/01.jpg)
+
 ## Introduction
 Born out of a desire for a small yet powerful computer to take with me to college, NeonSFF certainly fits the bill coming at under 6 liters. Comprised of mainly PLA plastic, it is also a cost effective choice not only compared to other small form factor cases, but also to other computer cases in general. After several months of design and prototyping, I feel that the project is complete for my needs. However, I hope others will be able to utilize and modify my design for their own builds as well.
 
