@@ -16,9 +16,10 @@ The only other major components you need for this case are heat-set M3 threaded 
 | Case | PC Components |
 | --- | --- |
 | ~750g of PLA ($10) | Intel i5 6500k, MSI ITX Motherboard |
-| 22 Heat Inserts | 16GB Ram, GTX 1060 6GB |
-| 19mm Anti-Vandal Switch | G-Unique Power Supply (custom built by [guryhwa](https://smallformfactor.net/forum/threads/more-g-unique-bto-psus-are-now-available-direct-order.1983/)) |
-| Front USB 3.0 (2x) | 240GB SDD and 1TB SSHD |
+| 22 Heat Inserts | Cryorig C7 Heatsink with Generic 140mm Fan |
+| 19mm Anti-Vandal Switch | 16GB Ram, GTX 1060 6GB |
+| Front USB 3.0 (2x) | G-Unique Power Supply (custom built by [guryhwa](https://smallformfactor.net/forum/threads/more-g-unique-bto-psus-are-now-available-direct-order.1983/)) |
+|| 240GB SDD and 1TB SSHD |
 
 ## License
 This project is licensed under the Creative Commons Attribution Share Alike 4.0 International License - see the LICENSE.md file for details
